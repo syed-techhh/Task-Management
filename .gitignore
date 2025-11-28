@@ -1,2 +1,2 @@
-venv/ 
+# venv/ - Removed to include in repository
 frontend/node_modules/ 
